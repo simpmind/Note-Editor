@@ -11,7 +11,6 @@ This is a text editor that runs in the browser. The app will be a single-page ap
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployed Link](#deployed-link)
-- [Demo](#demo)
 - [Built With](#built-with)
 - [License](#license)
 - [Contributing](#contributing)
@@ -36,7 +35,7 @@ Then open Insomnia and type http://localhost:3000/ to run this application on yo
 
 ## Deployed Link
 
-The link to the deployed application is: https://text-editor.herokuapp.com/.
+The link to the deployed application is: https://note-editor.herokuapp.com.
 
 ## Built With
 
